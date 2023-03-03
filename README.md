@@ -55,4 +55,4 @@ Restoration of JPEG images in a real-world scenario; Images are taken by iPhone1
 
 <p align="center"><img src="figs/fig_real.png" width="900"></p>
 
-|[<img src="figs/real_noisy.png" width="500px"/>] |[<img src="figs/real_restored.png" width="500px"/>]|
+|[<img src="figs/real_noisy.png" width="400px"/>] |[<img src="figs/real_restored.png" width="400px"/>]|
