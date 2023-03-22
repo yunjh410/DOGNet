@@ -1,5 +1,5 @@
 # DOGNet
-Deformable Offset Gating Network for JPEG Artifact Reduction for a Wide Compression Quality Factors
+JPEG Artifact Reduction Based on Deformable Offset Gating Network Controlled by a Variational Autoencoder
 
 
 ## Prerequisites
@@ -55,4 +55,15 @@ Restoration of JPEG images in a real-world scenario; Images are taken by iPhone1
 
 <p align="center"><img src="figs/fig_real.png" width="900"></p>
 
-|[<img src="figs/real_noisy.png" width="400px"/>] |[<img src="figs/real_restored.png" width="400px"/>]|
+<img src="figs/real_noisy.png" width="400px"/><img src="figs/real_restored.png" width="400px"/>
+
+## Citation
+```
+@article{yoon2023dognet,
+  title={JPEG Artifact Reduction Based on Deformable Offset Gating Network Controlled by a Variational Autoencoder},
+  author={Yoon, JeongHwan and Cho, Nam Ik},
+  journal={IEEE Open Access},
+  year={2023},
+  publisher={IEEE}
+}
+```
